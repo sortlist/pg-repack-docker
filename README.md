@@ -11,7 +11,7 @@ This images follows the pg_repack releases + compatibility with PostgreSQL.
 
 | postgres | pg_repack |
 |----------|-----------|
-| 17       | 1.5.1     |
+| 17       | 1.5.2     |
 | 16       | 1.5.0     |
 | 15       | 1.4.8     |
 | 14       | 1.4.7     |
